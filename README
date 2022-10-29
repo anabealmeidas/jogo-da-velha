@@ -1,5 +1,7 @@
 #Desafio: Jogo da Velha
 
+Retirado do curso Python Essentials 1 da Cisco Networking Academy
+
 Instruções:
 - O computador (ou seja, seu programa) deve jogar o jogo usando 'X's;
 - O usuário (por exemplo, você) deve jogar o jogo usando 'O's;
