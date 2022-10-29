@@ -1,0 +1,11 @@
+#Desafio: Jogo da Velha
+
+Instruções:
+- O computador (ou seja, seu programa) deve jogar o jogo usando 'X's;
+- O usuário (por exemplo, você) deve jogar o jogo usando 'O's;
+- O primeiro movimento pertence ao computador – ele sempre coloca seu primeiro 'X' no meio do tabuleiro;
+todos os quadrados são numerados linha por linha começando com 1 (veja a sessão de exemplo abaixo para referência)
+- O usuário insere seu movimento digitando o número do quadrado que escolher - o número deve ser válido, ou seja, deve ser um número inteiro, deve ser maior que 0 e menor que 10 e não pode apontar para um campo que já esteja ocupado;
+- O programa verifica se o jogo acabou − há quatro veredictos possíveis: o jogo deve continuar, o jogo termina empatado, você vence ou o computador vence;
+- O computador responde com seu movimento e a verificação é repetida;
+não implemente nenhuma forma de inteligência artificial – uma escolha de campo aleatória feita pelo computador é boa o suficiente para o jogo.
